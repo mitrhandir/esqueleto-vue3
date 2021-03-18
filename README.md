@@ -1,6 +1,12 @@
 # Vue 3 + Typescript + Vite
 
-This template should help get you started developing with Vue 3 and Typescript in Vite.
+Este template deberia servir para comenzar a desarrollar un proyeco en Vue 3, Typescript y Vuex 4 con Vite.
+
+## Agregados vuex 4
+Agregue el soporte de un store y modulos de vuex 4.
+
+## ----------------------------------------------------------------------------------------------------------
+
 
 ## Recommended IDE Setup
 
